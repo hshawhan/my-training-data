@@ -1,0 +1,250 @@
+{
+  "generated_at": "2026-04-19T19:09:01.200683",
+  "version": "3.104",
+  "script_hash": "74e1c7fc0294",
+  "scan_hours": 72,
+  "retention_days": 14,
+  "activities": [
+    {
+      "activity_id": "i140888370",
+      "date": "2026-04-18",
+      "type": "Run",
+      "name": "New Orleans - Moderate Progression - 5 Miles -",
+      "interval_summary": [
+        "2x 10m54s 138bpm",
+        "3x 8m54s 161bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "654s@138bpm91rpm",
+          "duration_secs": 653,
+          "avg_hr": 134,
+          "max_hr": 143,
+          "avg_cadence": 89.17445,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 139,
+          "max_hr": 139,
+          "avg_cadence": 92.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "654s@138bpm91rpm",
+          "duration_secs": 654,
+          "avg_hr": 141,
+          "max_hr": 146,
+          "avg_cadence": 91.92272,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "534s@161bpm93rpm",
+          "duration_secs": 544,
+          "avg_hr": 155,
+          "max_hr": 160,
+          "avg_cadence": 93.51471,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "534s@161bpm93rpm",
+          "duration_secs": 549,
+          "avg_hr": 160,
+          "max_hr": 163,
+          "avg_cadence": 92.77049,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "534s@161bpm93rpm",
+          "duration_secs": 510,
+          "avg_hr": 167,
+          "max_hr": 171,
+          "avg_cadence": 93.78432,
+          "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i140729988",
+      "date": "2026-04-17",
+      "type": "Run",
+      "name": "New Orleans - Aerobic Moderate - 5 Miles - cop",
+      "interval_summary": [
+        "5x 9m13s 151bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "553s@151bpm96rpm",
+          "duration_secs": 547,
+          "avg_hr": 140,
+          "max_hr": 150,
+          "avg_cadence": 93.65265,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 148,
+          "max_hr": 148,
+          "avg_cadence": 95.0,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "553s@151bpm96rpm",
+          "duration_secs": 546,
+          "avg_hr": 149,
+          "max_hr": 155,
+          "avg_cadence": 97.106224,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "553s@151bpm96rpm",
+          "duration_secs": 550,
+          "avg_hr": 152,
+          "max_hr": 155,
+          "avg_cadence": 97.22182,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "553s@151bpm96rpm",
+          "duration_secs": 550,
+          "avg_hr": 155,
+          "max_hr": 160,
+          "avg_cadence": 97.292725,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "553s@151bpm96rpm",
+          "duration_secs": 570,
+          "avg_hr": 158,
+          "max_hr": 163,
+          "avg_cadence": 95.786736,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 161,
+          "max_hr": 161,
+          "avg_cadence": 95.0,
+          "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i140506012",
+      "date": "2026-04-16",
+      "type": "Run",
+      "name": "New Orleans Running",
+      "interval_summary": [
+        "2x 13m21s 138bpm",
+        "1x 10m17s 140bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "801s@138bpm89rpm",
+          "duration_secs": 796,
+          "avg_hr": 135,
+          "max_hr": 149,
+          "avg_cadence": 88.495964,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 128,
+          "max_hr": 128,
+          "avg_cadence": 91.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "617s@140bpm91rpm",
+          "duration_secs": 617,
+          "avg_hr": 140,
+          "max_hr": 149,
+          "avg_cadence": 90.5543,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "801s@138bpm89rpm",
+          "duration_secs": 805,
+          "avg_hr": 140,
+          "max_hr": 153,
+          "avg_cadence": 89.68673,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i139914914",
+      "date": "2026-04-14",
+      "type": "Run",
+      "name": "New Orleans Running",
+      "interval_summary": [
+        "2x 15m50s 135bpm",
+        "1x 18m37s 133bpm",
+        "1x 56s 134bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "950s@135bpm90rpm",
+          "duration_secs": 929,
+          "avg_hr": 134,
+          "max_hr": 157,
+          "avg_cadence": 88.82436,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 147,
+          "max_hr": 147,
+          "avg_cadence": 93.0,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "950s@135bpm90rpm",
+          "duration_secs": 970,
+          "avg_hr": 135,
+          "max_hr": 147,
+          "avg_cadence": 90.23296,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1117s@133bpm88rpm",
+          "duration_secs": 1117,
+          "avg_hr": 133,
+          "max_hr": 145,
+          "avg_cadence": 87.80294,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "56s@134bpm90rpm",
+          "duration_secs": 56,
+          "avg_hr": 134,
+          "max_hr": 136,
+          "avg_cadence": 89.83929,
+          "zone": 1
+        }
+      ]
+    }
+  ]
+}
