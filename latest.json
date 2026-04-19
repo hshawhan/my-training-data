@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-04-19T19:09:05.158004",
+    "last_updated": "2026-04-19T21:05:10.928725",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -140,7 +140,7 @@
     },
     "phase_context": {
       "phase": "Base",
-      "phase_week": 1,
+      "phase_week": 3,
       "amber_threshold": 2,
       "modifier_applied": "default"
     },
@@ -150,9 +150,11 @@
     "alarm_refs": []
   },
   "history": {
-    "available": false,
-    "history_confidence": "low",
-    "note": "No history.json available. Longitudinal analysis limited to current 28-day window."
+    "available": true,
+    "last_generated": "2026-04-19",
+    "age_days": 0,
+    "total_months": 11,
+    "history_confidence": "medium"
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
@@ -233,7 +235,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 1384,
+      "steps": 1761,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -447,8 +449,8 @@
       ],
       "basis": {
         "stream_1": {
-          "ctl_slope": null,
-          "acwr_trend": null,
+          "ctl_slope": -2.95,
+          "acwr_trend": "rising",
           "hard_day_pattern": 0.7,
           "weeks_available": 4
         },
@@ -465,8 +467,8 @@
         "data_quality": "good",
         "stream_agreement": null
       },
-      "previous_phase": null,
-      "phase_duration_weeks": 1,
+      "previous_phase": "Base",
+      "phase_duration_weeks": 3,
       "dossier_declared": null,
       "dossier_agreement": null
     },
@@ -495,7 +497,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-04-19T19:09:05.157866",
+    "calculation_timestamp": "2026-04-19T21:05:10.927791",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -2274,7 +2276,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 1384,
+      "steps": 1761,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
