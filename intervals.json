@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T22:29:37.633548",
+  "generated_at": "2026-04-21T02:17:52.038668",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -242,6 +242,62 @@
           "avg_hr": 134,
           "max_hr": 136,
           "avg_cadence": 89.83929,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i141582814",
+      "date": "2026-04-20",
+      "type": "Run",
+      "name": "New Orleans - Recovery Run Monday - copy",
+      "interval_summary": [
+        "3x 10m37s 132bpm",
+        "1x 5m18s 136bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "637s@132bpm93rpm",
+          "duration_secs": 658,
+          "avg_hr": 126,
+          "max_hr": 137,
+          "avg_cadence": 90.86569,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 135,
+          "max_hr": 135,
+          "avg_cadence": 94.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "637s@132bpm93rpm",
+          "duration_secs": 626,
+          "avg_hr": 134,
+          "max_hr": 140,
+          "avg_cadence": 94.22684,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "637s@132bpm93rpm",
+          "duration_secs": 626,
+          "avg_hr": 135,
+          "max_hr": 143,
+          "avg_cadence": 95.38141,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "318s@136bpm94rpm",
+          "duration_secs": 318,
+          "avg_hr": 136,
+          "max_hr": 141,
+          "avg_cadence": 93.65605,
           "zone": 1
         }
       ]
