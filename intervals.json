@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T14:10:22.078355",
+  "generated_at": "2026-04-25T16:07:21.620874",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -602,6 +602,105 @@
           "duration_secs": 1659,
           "avg_hr": 106,
           "max_hr": 127,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i142869101",
+      "date": "2026-04-25",
+      "type": "Run",
+      "name": "New Orleans - Endurance Long Run Saturday - co",
+      "interval_summary": [
+        "8x 11m15s 139bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "675s@139bpm92rpm",
+          "duration_secs": 674,
+          "avg_hr": 137,
+          "max_hr": 153,
+          "avg_cadence": 91.949615,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 141,
+          "max_hr": 141,
+          "avg_cadence": 94.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "675s@139bpm92rpm",
+          "duration_secs": 693,
+          "avg_hr": 139,
+          "max_hr": 146,
+          "avg_cadence": 91.72182,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "675s@139bpm92rpm",
+          "duration_secs": 673,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 93.70728,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "675s@139bpm92rpm",
+          "duration_secs": 658,
+          "avg_hr": 140,
+          "max_hr": 144,
+          "avg_cadence": 94.80091,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "675s@139bpm92rpm",
+          "duration_secs": 664,
+          "avg_hr": 140,
+          "max_hr": 144,
+          "avg_cadence": 94.23344,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "675s@139bpm92rpm",
+          "duration_secs": 666,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 90.033035,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "675s@139bpm92rpm",
+          "duration_secs": 673,
+          "avg_hr": 140,
+          "max_hr": 144,
+          "avg_cadence": 88.88559,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "675s@139bpm92rpm",
+          "duration_secs": 696,
+          "avg_hr": 141,
+          "max_hr": 146,
+          "avg_cadence": 88.36364,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 136,
+          "max_hr": 136,
+          "avg_cadence": 88.0,
           "zone": 1
         }
       ]
