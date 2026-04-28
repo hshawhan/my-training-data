@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T07:55:17.551107",
+  "generated_at": "2026-04-28T16:13:58.649958",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -748,6 +748,99 @@
           "duration_secs": 1536,
           "avg_hr": 119,
           "max_hr": 135,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i143747246",
+      "date": "2026-04-28",
+      "type": "Run",
+      "name": "New Orleans Running",
+      "interval_summary": [
+        "1x 9m31s 152bpm",
+        "1x 5m4s 160bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "571s@152bpm98rpm",
+          "duration_secs": 571,
+          "avg_hr": 152,
+          "max_hr": 161,
+          "avg_cadence": 98.460594,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "304s@160bpm95rpm",
+          "duration_secs": 304,
+          "avg_hr": 160,
+          "max_hr": 163,
+          "avg_cadence": 95.45118,
+          "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i143747239",
+      "date": "2026-04-28",
+      "type": "Run",
+      "name": "New Orleans - 5x1000m Intervals (7:30 Pace) -",
+      "interval_summary": [
+        "2x 10m27s 142bpm",
+        "1x 4m36s 164bpm",
+        "1x 2s 114bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "627s@142bpm97rpm",
+          "duration_secs": 627,
+          "avg_hr": 138,
+          "max_hr": 148,
+          "avg_cadence": 97.262054,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "627s@142bpm97rpm",
+          "duration_secs": 627,
+          "avg_hr": 145,
+          "max_hr": 149,
+          "avg_cadence": 96.44338,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "276s@164bpm100rpm",
+          "duration_secs": 276,
+          "avg_hr": 164,
+          "max_hr": 171,
+          "avg_cadence": 100.28623,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 189,
+          "avg_hr": 138,
+          "max_hr": 172,
+          "avg_cadence": 40.087837,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "2s@114bpm",
+          "duration_secs": 2,
+          "avg_hr": 114,
+          "max_hr": 114,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 14,
+          "avg_hr": 112,
+          "max_hr": 113,
           "zone": 1
         }
       ]
