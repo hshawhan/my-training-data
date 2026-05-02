@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T15:34:24.390087",
+  "generated_at": "2026-05-02T06:22:31.510333",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -66,78 +66,6 @@
           "avg_hr": 167,
           "max_hr": 171,
           "avg_cadence": 93.78432,
-          "zone": 4
-        }
-      ]
-    },
-    {
-      "activity_id": "i140729988",
-      "date": "2026-04-17",
-      "type": "Run",
-      "name": "New Orleans - Aerobic Moderate - 5 Miles - cop",
-      "interval_summary": [
-        "5x 9m13s 151bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "553s@151bpm96rpm",
-          "duration_secs": 547,
-          "avg_hr": 140,
-          "max_hr": 150,
-          "avg_cadence": 93.65265,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 148,
-          "max_hr": 148,
-          "avg_cadence": 95.0,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "553s@151bpm96rpm",
-          "duration_secs": 546,
-          "avg_hr": 149,
-          "max_hr": 155,
-          "avg_cadence": 97.106224,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "553s@151bpm96rpm",
-          "duration_secs": 550,
-          "avg_hr": 152,
-          "max_hr": 155,
-          "avg_cadence": 97.22182,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "553s@151bpm96rpm",
-          "duration_secs": 550,
-          "avg_hr": 155,
-          "max_hr": 160,
-          "avg_cadence": 97.292725,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "553s@151bpm96rpm",
-          "duration_secs": 570,
-          "avg_hr": 158,
-          "max_hr": 163,
-          "avg_cadence": 95.786736,
-          "zone": 3
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 161,
-          "max_hr": 161,
-          "avg_cadence": 95.0,
           "zone": 4
         }
       ]
