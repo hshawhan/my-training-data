@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T22:09:03.288910",
+  "generated_at": "2026-05-04T08:07:09.379860",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -755,6 +755,44 @@
           "duration_secs": 962,
           "avg_hr": 110,
           "max_hr": 127,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i145212979",
+      "date": "2026-05-03",
+      "type": "Ride",
+      "name": "New Orleans Cycling",
+      "interval_summary": [
+        "1x 5m59s 104bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "359s@104bpm",
+          "duration_secs": 359,
+          "avg_hr": 104,
+          "max_hr": 124,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i145197287",
+      "date": "2026-05-03",
+      "type": "Ride",
+      "name": "New Orleans Cycling",
+      "interval_summary": [
+        "1x 7m45s 123bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "465s@123bpm",
+          "duration_secs": 465,
+          "avg_hr": 123,
+          "max_hr": 140,
           "zone": 1
         }
       ]
