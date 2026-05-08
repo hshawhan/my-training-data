@@ -1,23 +1,25 @@
-# Section 11 Athlete Dossier: [Your Name/Handle]
+# Section 11 Athlete Dossier: [Holly S.]
 
 ## Physiology
 - **Max HR:** 184 bpm
 - **Resting HR:** 45 bpm
+- **Recent Performance:** 10k in 50:14 (April 2026)
 - **Thresholds:** Using Intervals.icu standard auto-calculated zones
 - **Sports:** Running (Primary), Tennis (Weekly), Weight Lifting (7 years)
 
-## Training History & Context
-- **Running Experience:** 2+ years consistent training
-- **Strength Base:** Significant (7 years lifting history)
-- **Typical Volume:** Mixed multi-sport; includes lateral movement from tennis
-- **Equipment:** Chest strap (intermittent use), no AlphaHRV/DFA a1 tracking
+## Training History & Weekly Structure
+- **Running:** 2+ years (Peak volume 40mpw)
+- **Lifting:** 7 years (3x weekly: Mon/Fri Upper, Sun Lower)
+- **Cross-Training:** 
+    - Weekly Sunday Tennis (Lateral/Interval stimulus)
+    - Wednesday Cycling Class (High-intensity aerobic/low-impact)
 
-## Current Goals
-- **Primary Race:** Huey P Long Bridge Run 5K (May 9, 2026)
-- **Focus:** Building running endurance and handling bridge/incline power
-- **Outcome Goal:** Personal record or strong finish on the 5k bridge course
+## Current Goals (Pivot: May 2026)
+- **Primary Goal:** February 2027 Marathon 
+- **Target Time:** Sub-4 Hours (9:09/mi pace)
+- **Phase 1 (May-July):** Speed & Economy. Focus on raising the 5k/10k speed ceiling.
+- **Phase 2 (Aug-Oct):** Base Building. Gradually move volume ceiling toward 50mpw.
 
-## Constraints & Preferences
-- **Schedule:** Integrated with weekly tennis and lifting sessions
-- **Injuries:** None / Healthy
-- **Preference:** Intervals.icu standard zones; evidence-based pacing for inclines
+## Constraints
+- **Injury Status:** Healthy.
+- **Priority:** Use Wednesday cycling for aerobic capacity; maintain 3x weekly lifting for marathon-specific durability and injury prevention.
