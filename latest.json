@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-08T00:51:21.999187",
+    "last_updated": "2026-05-08T00:57:11.025321",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -140,11 +140,9 @@
     "alarm_refs": []
   },
   "history": {
-    "available": true,
-    "last_generated": "2026-04-19",
-    "age_days": 18,
-    "total_months": 11,
-    "history_confidence": "medium"
+    "available": false,
+    "history_confidence": "low",
+    "note": "No history.json available. Longitudinal analysis limited to current 28-day window."
   },
   "summary": {
     "period_description": "Last 7 days of training (including today)",
@@ -511,7 +509,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-08T00:51:21.998263",
+    "calculation_timestamp": "2026-05-08T00:57:11.025181",
     "data_quality": {
       "hrv_data_points": 6,
       "rhr_data_points": 6,
