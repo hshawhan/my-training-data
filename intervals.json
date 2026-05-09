@@ -1,61 +1,10 @@
 {
-  "generated_at": "2026-05-08T23:41:21.768149",
+  "generated_at": "2026-05-09T07:21:30.021935",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i142681952",
-      "date": "2026-04-24",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 32m4s 108bpm",
-        "1x 4m27s 114bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1924s@108bpm",
-          "duration_secs": 1924,
-          "avg_hr": 108,
-          "max_hr": 137,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "267s@114bpm",
-          "duration_secs": 267,
-          "avg_hr": 114,
-          "max_hr": 132,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i142689230",
-      "date": "2026-04-24",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 27m39s 106bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 5
-        },
-        {
-          "type": "WORK",
-          "label": "1659s@106bpm",
-          "duration_secs": 1659,
-          "avg_hr": 106,
-          "max_hr": 127,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i142869101",
       "date": "2026-04-25",
