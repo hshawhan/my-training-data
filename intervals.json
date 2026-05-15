@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T20:42:25.798620",
+  "generated_at": "2026-05-15T23:40:59.817403",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -900,6 +900,90 @@
           "avg_hr": 158,
           "max_hr": 158,
           "avg_cadence": 89.666664,
+          "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i148634137",
+      "date": "2026-05-15",
+      "type": "VirtualRide",
+      "name": "Indoor Cycling",
+      "interval_summary": [
+        "1x 47m45s 144bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "2865s@144bpm",
+          "duration_secs": 2865,
+          "avg_hr": 144,
+          "max_hr": 180,
+          "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i148625142",
+      "date": "2026-05-15",
+      "type": "Run",
+      "name": "New Orleans - W1 Fri Easy Run - 3.25mi Easy Ru",
+      "interval_summary": [
+        "1x 10m52s 134bpm",
+        "2x 10m36s 152bpm",
+        "1x 2m40s 154bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "652s@134bpm90rpm",
+          "duration_secs": 652,
+          "avg_hr": 134,
+          "max_hr": 150,
+          "avg_cadence": 90.32976,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 149,
+          "max_hr": 149,
+          "avg_cadence": 92.0,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "636s@152bpm93rpm",
+          "duration_secs": 637,
+          "avg_hr": 151,
+          "max_hr": 155,
+          "avg_cadence": 92.769356,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "636s@152bpm93rpm",
+          "duration_secs": 635,
+          "avg_hr": 153,
+          "max_hr": 158,
+          "avg_cadence": 93.25827,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "160s@154bpm93rpm",
+          "duration_secs": 160,
+          "avg_hr": 154,
+          "max_hr": 156,
+          "avg_cadence": 92.7125,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 156,
+          "max_hr": 156,
+          "avg_cadence": 92.0,
           "zone": 3
         }
       ]
