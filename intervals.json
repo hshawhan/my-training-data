@@ -1,90 +1,10 @@
 {
-  "generated_at": "2026-05-17T23:14:11.730782",
+  "generated_at": "2026-05-18T12:48:33.384640",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i145114440",
-      "date": "2026-05-03",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 13m56s 127bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "836s@127bpm",
-          "duration_secs": 836,
-          "avg_hr": 127,
-          "max_hr": 148,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i145121327",
-      "date": "2026-05-03",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 16m2s 110bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1
-        },
-        {
-          "type": "WORK",
-          "label": "962s@110bpm",
-          "duration_secs": 962,
-          "avg_hr": 110,
-          "max_hr": 127,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i145212979",
-      "date": "2026-05-03",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 5m59s 104bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "359s@104bpm",
-          "duration_secs": 359,
-          "avg_hr": 104,
-          "max_hr": 124,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i145197287",
-      "date": "2026-05-03",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 7m45s 123bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "465s@123bpm",
-          "duration_secs": 465,
-          "avg_hr": 123,
-          "max_hr": 140,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i145334101",
       "date": "2026-05-04",
