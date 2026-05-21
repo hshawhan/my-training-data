@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-21T20:12:29.637959",
+    "last_updated": "2026-05-21T21:50:19.592631",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -268,7 +268,7 @@
       "respiration": 14.875,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 1534,
+      "steps": 2005,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -276,7 +276,7 @@
       "fat_g": null,
       "menstrual_phase": null,
       "menstrual_phase_predicted": null,
-      "readiness": 78.0
+      "readiness": 79.0
     }
   },
   "derived_metrics": {
@@ -530,7 +530,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-21T20:12:29.636949",
+    "calculation_timestamp": "2026-05-21T21:50:19.591589",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -3179,7 +3179,7 @@
       "respiration": 14.875,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 1534,
+      "steps": 2005,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -3187,7 +3187,7 @@
       "fat_g": null,
       "menstrual_phase": null,
       "menstrual_phase_predicted": null,
-      "readiness": 78.0
+      "readiness": 79.0
     }
   ],
   "planned_workouts": [],
