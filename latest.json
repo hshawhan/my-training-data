@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-23T21:07:45.180691",
+    "last_updated": "2026-05-23T22:08:49.602830",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.104"
@@ -236,7 +236,7 @@
       "sleep_quality": 2,
       "sleep_hours": 7.46,
       "sleep_formatted": "7h27m",
-      "sleep_score": 79.0,
+      "sleep_score": 80.0,
       "fatigue": null,
       "soreness": null,
       "stress": null,
@@ -253,7 +253,7 @@
       "respiration": 13.625,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 15401,
+      "steps": 16407,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -261,7 +261,7 @@
       "fat_g": null,
       "menstrual_phase": null,
       "menstrual_phase_predicted": null,
-      "readiness": 83.0
+      "readiness": 84.0
     }
   },
   "derived_metrics": {
@@ -515,7 +515,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-23T21:07:45.179689",
+    "calculation_timestamp": "2026-05-23T22:08:49.601877",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -3098,7 +3098,7 @@
       "sleep_hours": 7.46,
       "sleep_formatted": "7h27m",
       "sleep_quality": 2,
-      "sleep_score": 79.0,
+      "sleep_score": 80.0,
       "mental_energy": null,
       "avg_sleeping_hr": 48.875,
       "vo2max": null,
@@ -3118,7 +3118,7 @@
       "respiration": 13.625,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 15401,
+      "steps": 16407,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -3126,7 +3126,7 @@
       "fat_g": null,
       "menstrual_phase": null,
       "menstrual_phase_predicted": null,
-      "readiness": 83.0
+      "readiness": 84.0
     }
   ],
   "planned_workouts": [],
