@@ -1,76 +1,10 @@
 {
-  "generated_at": "2026-05-23T23:11:06.955685",
+  "generated_at": "2026-05-24T00:12:56.761123",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i146712846",
-      "date": "2026-05-09",
-      "type": "Run",
-      "name": "New Orleans Running",
-      "interval_summary": [
-        "5x 10m1s 155bpm",
-        "1x 8m33s 164bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "601s@155bpm93rpm",
-          "duration_secs": 614,
-          "avg_hr": 140,
-          "max_hr": 155,
-          "avg_cadence": 92.3594,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "601s@155bpm93rpm",
-          "duration_secs": 594,
-          "avg_hr": 155,
-          "max_hr": 159,
-          "avg_cadence": 93.547134,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "601s@155bpm93rpm",
-          "duration_secs": 609,
-          "avg_hr": 157,
-          "max_hr": 161,
-          "avg_cadence": 92.40636,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "601s@155bpm93rpm",
-          "duration_secs": 608,
-          "avg_hr": 161,
-          "max_hr": 165,
-          "avg_cadence": 92.00679,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "601s@155bpm93rpm",
-          "duration_secs": 582,
-          "avg_hr": 163,
-          "max_hr": 167,
-          "avg_cadence": 92.96048,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "513s@164bpm92rpm",
-          "duration_secs": 513,
-          "avg_hr": 164,
-          "max_hr": 168,
-          "avg_cadence": 92.20253,
-          "zone": 4
-        }
-      ]
-    },
     {
       "activity_id": "i146974870",
       "date": "2026-05-10",
