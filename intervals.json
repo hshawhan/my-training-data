@@ -1,60 +1,10 @@
 {
-  "generated_at": "2026-05-26T22:48:25.259563",
+  "generated_at": "2026-05-27T00:04:47.924520",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i147708630",
-      "date": "2026-05-12",
-      "type": "Run",
-      "name": "New Orleans - W1 Tue Easy Run - 3.25mi Easy Ru",
-      "interval_summary": [
-        "1x 9m58s 141bpm",
-        "1x 24m3s 146bpm",
-        "1x 15m9s 140bpm",
-        "1x 2m26s 146bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "598s@141bpm91rpm",
-          "duration_secs": 598,
-          "avg_hr": 141,
-          "max_hr": 153,
-          "avg_cadence": 91.04682,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1443s@146bpm91rpm",
-          "duration_secs": 1443,
-          "avg_hr": 146,
-          "max_hr": 156,
-          "avg_cadence": 91.276634,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "909s@140bpm88rpm",
-          "duration_secs": 909,
-          "avg_hr": 140,
-          "max_hr": 152,
-          "avg_cadence": 88.2928,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "146s@146bpm92rpm",
-          "duration_secs": 146,
-          "avg_hr": 146,
-          "max_hr": 151,
-          "avg_cadence": 91.64384,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i147993745",
       "date": "2026-05-13",
