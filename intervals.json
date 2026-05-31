@@ -1,103 +1,10 @@
 {
-  "generated_at": "2026-05-30T23:14:52.447779",
+  "generated_at": "2026-05-31T00:17:04.182881",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i148784614",
-      "date": "2026-05-16",
-      "type": "Run",
-      "name": "New Orleans - W1 Sat Long Run - 7.5mi Hilly Lo",
-      "interval_summary": [
-        "6x 10m7s 146bpm",
-        "1x 22m41s 145bpm",
-        "1x 4m51s 152bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "607s@146bpm93rpm",
-          "duration_secs": 630,
-          "avg_hr": 133,
-          "max_hr": 146,
-          "avg_cadence": 91.76826,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "607s@146bpm93rpm",
-          "duration_secs": 597,
-          "avg_hr": 145,
-          "max_hr": 149,
-          "avg_cadence": 93.27805,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "607s@146bpm93rpm",
-          "duration_secs": 611,
-          "avg_hr": 147,
-          "max_hr": 151,
-          "avg_cadence": 92.47079,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "607s@146bpm93rpm",
-          "duration_secs": 611,
-          "avg_hr": 150,
-          "max_hr": 155,
-          "avg_cadence": 91.63306,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "607s@146bpm93rpm",
-          "duration_secs": 605,
-          "avg_hr": 151,
-          "max_hr": 155,
-          "avg_cadence": 92.659325,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "1361s@145bpm93rpm",
-          "duration_secs": 1361,
-          "avg_hr": 145,
-          "max_hr": 157,
-          "avg_cadence": 93.31453,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "607s@146bpm93rpm",
-          "duration_secs": 588,
-          "avg_hr": 148,
-          "max_hr": 152,
-          "avg_cadence": 93.20408,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "291s@152bpm93rpm",
-          "duration_secs": 291,
-          "avg_hr": 152,
-          "max_hr": 156,
-          "avg_cadence": 92.745705,
-          "zone": 3
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 156,
-          "max_hr": 156,
-          "avg_cadence": 94.0,
-          "zone": 3
-        }
-      ]
-    },
     {
       "activity_id": "i149529135",
       "date": "2026-05-18",
