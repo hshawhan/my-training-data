@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T00:17:09.809903",
+  "generated_at": "2026-06-03T05:25:56.121477",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -902,6 +902,74 @@
           "max_hr": 170,
           "avg_cadence": 95.0,
           "zone": 5
+        }
+      ]
+    },
+    {
+      "activity_id": "i153773715",
+      "date": "2026-06-02",
+      "type": "Run",
+      "name": "New Orleans - W4 Tue Easy Run #2 - 4.5mi Easy",
+      "interval_summary": [
+        "1x 10m23s 133bpm",
+        "1x 41m14s 133bpm",
+        "3x 15m27s 141bpm",
+        "1x 4m46s 149bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "623s@133bpm92rpm",
+          "duration_secs": 623,
+          "avg_hr": 133,
+          "max_hr": 143,
+          "avg_cadence": 92.276085,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "2474s@133bpm91rpm",
+          "duration_secs": 2474,
+          "avg_hr": 133,
+          "max_hr": 146,
+          "avg_cadence": 90.76833,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "927s@141bpm92rpm",
+          "duration_secs": 965,
+          "avg_hr": 138,
+          "max_hr": 152,
+          "avg_cadence": 92.15179,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "927s@141bpm92rpm",
+          "duration_secs": 910,
+          "avg_hr": 143,
+          "max_hr": 153,
+          "avg_cadence": 92.20106,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "927s@141bpm92rpm",
+          "duration_secs": 907,
+          "avg_hr": 141,
+          "max_hr": 155,
+          "avg_cadence": 91.003494,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "286s@149bpm93rpm",
+          "duration_secs": 286,
+          "avg_hr": 149,
+          "max_hr": 153,
+          "avg_cadence": 93.052444,
+          "zone": 2
         }
       ]
     }
