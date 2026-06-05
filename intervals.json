@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T10:31:15.567559",
+  "generated_at": "2026-06-05T13:42:27.300434",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -899,6 +899,81 @@
           "max_hr": 144,
           "avg_cadence": 96.0,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i154553923",
+      "date": "2026-06-05",
+      "type": "Run",
+      "name": "Akron - W4 Fri Easy Run #3 - 4.5mi Easy",
+      "interval_summary": [
+        "4x 10m7s 144bpm",
+        "1x 4m54s 152bpm",
+        "1x 98s 155bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "607s@144bpm93rpm",
+          "duration_secs": 641,
+          "avg_hr": 133,
+          "max_hr": 150,
+          "avg_cadence": 91.86272,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 130,
+          "max_hr": 130,
+          "avg_cadence": 94.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "607s@144bpm93rpm",
+          "duration_secs": 604,
+          "avg_hr": 144,
+          "max_hr": 158,
+          "avg_cadence": 93.3543,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "607s@144bpm93rpm",
+          "duration_secs": 598,
+          "avg_hr": 148,
+          "max_hr": 166,
+          "avg_cadence": 94.01003,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "607s@144bpm93rpm",
+          "duration_secs": 585,
+          "avg_hr": 151,
+          "max_hr": 158,
+          "avg_cadence": 94.558975,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "294s@152bpm94rpm",
+          "duration_secs": 294,
+          "avg_hr": 152,
+          "max_hr": 157,
+          "avg_cadence": 93.77211,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "98s@155bpm94rpm",
+          "duration_secs": 98,
+          "avg_hr": 155,
+          "max_hr": 160,
+          "avg_cadence": 94.061226,
+          "zone": 3
         }
       ]
     }
