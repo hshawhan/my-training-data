@@ -1,83 +1,10 @@
 {
-  "generated_at": "2026-06-07T23:35:59.425956",
+  "generated_at": "2026-06-08T02:00:53.228228",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i151196817",
-      "date": "2026-05-24",
-      "type": "Run",
-      "name": "New Orleans - W2 Sun Easy Run #2 - 4.5mi Easy",
-      "interval_summary": [
-        "4x 10m11s 141bpm",
-        "1x 5m5s 148bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "611s@141bpm93rpm",
-          "duration_secs": 622,
-          "avg_hr": 129,
-          "max_hr": 145,
-          "avg_cadence": 91.65296,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 142,
-          "max_hr": 142,
-          "avg_cadence": 94.0,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "611s@141bpm93rpm",
-          "duration_secs": 603,
-          "avg_hr": 142,
-          "max_hr": 148,
-          "avg_cadence": 94.431175,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "611s@141bpm93rpm",
-          "duration_secs": 597,
-          "avg_hr": 146,
-          "max_hr": 150,
-          "avg_cadence": 93.75209,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "611s@141bpm93rpm",
-          "duration_secs": 622,
-          "avg_hr": 147,
-          "max_hr": 151,
-          "avg_cadence": 92.39274,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "305s@148bpm92rpm",
-          "duration_secs": 305,
-          "avg_hr": 148,
-          "max_hr": 152,
-          "avg_cadence": 92.34754,
-          "zone": 2
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 148,
-          "max_hr": 148,
-          "avg_cadence": 92.0,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i151481545",
       "date": "2026-05-25",
