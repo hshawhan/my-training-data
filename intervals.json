@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:08:00.010323",
+  "generated_at": "2026-06-08T22:50:21.381483",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -872,6 +872,89 @@
           "max_hr": 159,
           "avg_cadence": 95.0,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i155540161",
+      "date": "2026-06-08",
+      "type": "Run",
+      "name": "New Orleans - W5 Mon Tempo - Over and Unders M",
+      "interval_summary": [
+        "3x 10m36s 149bpm",
+        "2x 8m17s 167bpm",
+        "1x 4m56s 165bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "636s@149bpm91rpm",
+          "duration_secs": 654,
+          "avg_hr": 137,
+          "max_hr": 148,
+          "avg_cadence": 91.49353,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 146,
+          "max_hr": 146,
+          "avg_cadence": 93.0,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "636s@149bpm91rpm",
+          "duration_secs": 629,
+          "avg_hr": 148,
+          "max_hr": 154,
+          "avg_cadence": 93.399025,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "497s@167bpm96rpm",
+          "duration_secs": 520,
+          "avg_hr": 162,
+          "max_hr": 166,
+          "avg_cadence": 94.96154,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "497s@167bpm96rpm",
+          "duration_secs": 473,
+          "avg_hr": 171,
+          "max_hr": 175,
+          "avg_cadence": 96.94292,
+          "zone": 5
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 91,
+          "avg_hr": 163,
+          "max_hr": 173,
+          "avg_cadence": 48.274727,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "636s@149bpm91rpm",
+          "duration_secs": 625,
+          "avg_hr": 161,
+          "max_hr": 167,
+          "avg_cadence": 87.85899,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "296s@165bpm92rpm",
+          "duration_secs": 296,
+          "avg_hr": 165,
+          "max_hr": 167,
+          "avg_cadence": 92.09122,
+          "zone": 4
         }
       ]
     }
