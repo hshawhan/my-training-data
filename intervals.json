@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T00:13:46.597316",
+  "generated_at": "2026-06-10T04:51:09.019318",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -790,6 +790,74 @@
           "max_hr": 167,
           "avg_cadence": 92.09122,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i155923199",
+      "date": "2026-06-09",
+      "type": "Run",
+      "name": "New Orleans - W5 Tue Easy Run #3 - 3.25mi Easy",
+      "interval_summary": [
+        "1x 17m2s 129bpm",
+        "1x 21m25s 140bpm",
+        "1x 9m31s 144bpm",
+        "1x 2m31s 150bpm",
+        "1x 2s 150bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1022s@129bpm88rpm",
+          "duration_secs": 1022,
+          "avg_hr": 129,
+          "max_hr": 147,
+          "avg_cadence": 88.353745,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 146,
+          "max_hr": 146,
+          "avg_cadence": 94.0,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1285s@140bpm91rpm",
+          "duration_secs": 1285,
+          "avg_hr": 140,
+          "max_hr": 153,
+          "avg_cadence": 90.7847,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "571s@144bpm92rpm",
+          "duration_secs": 571,
+          "avg_hr": 144,
+          "max_hr": 152,
+          "avg_cadence": 91.779335,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "151s@150bpm93rpm",
+          "duration_secs": 151,
+          "avg_hr": 150,
+          "max_hr": 152,
+          "avg_cadence": 92.53642,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "2s@150bpm92rpm",
+          "duration_secs": 2,
+          "avg_hr": 150,
+          "max_hr": 150,
+          "avg_cadence": 92.0,
+          "zone": 2
         }
       ]
     }
