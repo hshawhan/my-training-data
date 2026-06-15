@@ -1,76 +1,10 @@
 {
-  "generated_at": "2026-06-14T23:50:47.271093",
+  "generated_at": "2026-06-15T04:18:34.110824",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i152996370",
-      "date": "2026-05-31",
-      "type": "Run",
-      "name": "New Orleans - W3 Sun Easy Run #2 - 4.5mi Easy",
-      "interval_summary": [
-        "1x 10m24s 134bpm",
-        "3x 9m17s 157bpm",
-        "1x 4m28s 167bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "624s@134bpm91rpm",
-          "duration_secs": 624,
-          "avg_hr": 134,
-          "max_hr": 146,
-          "avg_cadence": 91.02922,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "557s@157bpm95rpm",
-          "duration_secs": 573,
-          "avg_hr": 151,
-          "max_hr": 156,
-          "avg_cadence": 94.56894,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "557s@157bpm95rpm",
-          "duration_secs": 561,
-          "avg_hr": 157,
-          "max_hr": 161,
-          "avg_cadence": 95.44563,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "557s@157bpm95rpm",
-          "duration_secs": 538,
-          "avg_hr": 164,
-          "max_hr": 168,
-          "avg_cadence": 95.92937,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "268s@167bpm94rpm",
-          "duration_secs": 268,
-          "avg_hr": 167,
-          "max_hr": 170,
-          "avg_cadence": 94.31343,
-          "zone": 4
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 170,
-          "max_hr": 170,
-          "avg_cadence": 95.0,
-          "zone": 5
-        }
-      ]
-    },
     {
       "activity_id": "i153773715",
       "date": "2026-06-02",
