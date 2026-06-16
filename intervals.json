@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T00:11:22.919931",
+  "generated_at": "2026-06-16T05:34:23.956199",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -1020,6 +1020,71 @@
           "max_hr": 157,
           "avg_cadence": 93.956985,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i157611332",
+      "date": "2026-06-15",
+      "type": "Run",
+      "name": "New Orleans - W6 Mon Easy Run #4 - 4.5mi Easy",
+      "interval_summary": [
+        "4x 10m27s 136bpm",
+        "1x 5m5s 140bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "627s@136bpm94rpm",
+          "duration_secs": 658,
+          "avg_hr": 125,
+          "max_hr": 138,
+          "avg_cadence": 91.89574,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 138,
+          "max_hr": 138,
+          "avg_cadence": 95.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "627s@136bpm94rpm",
+          "duration_secs": 635,
+          "avg_hr": 136,
+          "max_hr": 144,
+          "avg_cadence": 94.37186,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "627s@136bpm94rpm",
+          "duration_secs": 586,
+          "avg_hr": 142,
+          "max_hr": 147,
+          "avg_cadence": 95.7372,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "627s@136bpm94rpm",
+          "duration_secs": 630,
+          "avg_hr": 139,
+          "max_hr": 144,
+          "avg_cadence": 93.52483,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "305s@140bpm94rpm",
+          "duration_secs": 305,
+          "avg_hr": 140,
+          "max_hr": 144,
+          "avg_cadence": 94.19344,
+          "zone": 1
         }
       ]
     }
