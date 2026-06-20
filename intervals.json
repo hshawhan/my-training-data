@@ -1,85 +1,10 @@
 {
-  "generated_at": "2026-06-19T23:14:53.563440",
+  "generated_at": "2026-06-20T01:32:31.110682",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i154553923",
-      "date": "2026-06-05",
-      "type": "Run",
-      "name": "Akron - W4 Fri Easy Run #3 - 4.5mi Easy",
-      "interval_summary": [
-        "4x 10m7s 144bpm",
-        "1x 4m54s 152bpm",
-        "1x 98s 155bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "607s@144bpm93rpm",
-          "duration_secs": 641,
-          "avg_hr": 133,
-          "max_hr": 150,
-          "avg_cadence": 91.86272,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 130,
-          "max_hr": 130,
-          "avg_cadence": 94.0,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "607s@144bpm93rpm",
-          "duration_secs": 604,
-          "avg_hr": 144,
-          "max_hr": 158,
-          "avg_cadence": 93.3543,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "607s@144bpm93rpm",
-          "duration_secs": 598,
-          "avg_hr": 148,
-          "max_hr": 166,
-          "avg_cadence": 94.01003,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "607s@144bpm93rpm",
-          "duration_secs": 585,
-          "avg_hr": 151,
-          "max_hr": 158,
-          "avg_cadence": 94.558975,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "294s@152bpm94rpm",
-          "duration_secs": 294,
-          "avg_hr": 152,
-          "max_hr": 157,
-          "avg_cadence": 93.77211,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "98s@155bpm94rpm",
-          "duration_secs": 98,
-          "avg_hr": 155,
-          "max_hr": 160,
-          "avg_cadence": 94.061226,
-          "zone": 3
-        }
-      ]
-    },
     {
       "activity_id": "i154814773",
       "date": "2026-06-06",
@@ -1172,6 +1097,73 @@
           "avg_hr": 141,
           "max_hr": 143,
           "avg_cadence": 91.95283,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i158748240",
+      "date": "2026-06-19",
+      "type": "Run",
+      "name": "New Orleans - W6 Fri Easy Run #3 - 4.5mi Easy",
+      "interval_summary": [
+        "4x 10m33s 137bpm",
+        "1x 5m45s 139bpm",
+        "1x 61s 142bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "633s@137bpm92rpm",
+          "duration_secs": 651,
+          "avg_hr": 130,
+          "max_hr": 141,
+          "avg_cadence": 89.48867,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "633s@137bpm92rpm",
+          "duration_secs": 630,
+          "avg_hr": 139,
+          "max_hr": 144,
+          "avg_cadence": 91.479744,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "633s@137bpm92rpm",
+          "duration_secs": 624,
+          "avg_hr": 139,
+          "max_hr": 144,
+          "avg_cadence": 93.33654,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "633s@137bpm92rpm",
+          "duration_secs": 628,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 93.2508,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "345s@139bpm91rpm",
+          "duration_secs": 345,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 90.66445,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "61s@142bpm89rpm",
+          "duration_secs": 61,
+          "avg_hr": 142,
+          "max_hr": 144,
+          "avg_cadence": 88.796295,
           "zone": 1
         }
       ]
