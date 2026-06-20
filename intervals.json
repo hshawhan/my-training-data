@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T13:14:14.259081",
+  "generated_at": "2026-06-20T15:16:28.774434",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -1165,6 +1165,99 @@
           "max_hr": 144,
           "avg_cadence": 88.796295,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i158886516",
+      "date": "2026-06-20",
+      "type": "Run",
+      "name": "New Orleans - W6 Sat Long Run - 9mi Progressiv",
+      "interval_summary": [
+        "8x 9m18s 155bpm",
+        "1x 22m34s 152bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "558s@155bpm96rpm",
+          "duration_secs": 595,
+          "avg_hr": 135,
+          "max_hr": 154,
+          "avg_cadence": 94.13782,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "558s@155bpm96rpm",
+          "duration_secs": 581,
+          "avg_hr": 141,
+          "max_hr": 147,
+          "avg_cadence": 94.912224,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "558s@155bpm96rpm",
+          "duration_secs": 527,
+          "avg_hr": 154,
+          "max_hr": 158,
+          "avg_cadence": 98.95825,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "558s@155bpm96rpm",
+          "duration_secs": 525,
+          "avg_hr": 159,
+          "max_hr": 164,
+          "avg_cadence": 100.74857,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "558s@155bpm96rpm",
+          "duration_secs": 512,
+          "avg_hr": 164,
+          "max_hr": 167,
+          "avg_cadence": 99.99414,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "1354s@152bpm96rpm",
+          "duration_secs": 1354,
+          "avg_hr": 152,
+          "max_hr": 167,
+          "avg_cadence": 95.679924,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "558s@155bpm96rpm",
+          "duration_secs": 497,
+          "avg_hr": 165,
+          "max_hr": 169,
+          "avg_cadence": 96.12877,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "558s@155bpm96rpm",
+          "duration_secs": 638,
+          "avg_hr": 158,
+          "max_hr": 168,
+          "avg_cadence": 90.855736,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "558s@155bpm96rpm",
+          "duration_secs": 585,
+          "avg_hr": 160,
+          "max_hr": 163,
+          "avg_cadence": 92.31434,
+          "zone": 4
         }
       ]
     }
