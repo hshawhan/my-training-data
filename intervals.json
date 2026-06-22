@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T21:34:06.879104",
+  "generated_at": "2026-06-22T23:05:35.064441",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -1186,6 +1186,90 @@
           "max_hr": 163,
           "avg_cadence": 92.31434,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i159522987",
+      "date": "2026-06-22",
+      "type": "Run",
+      "name": "New Orleans - W7 Mon Tempo - Tempo 2 Miles (5.",
+      "interval_summary": [
+        "3x 10m44s 138bpm",
+        "1x 7m42s 160bpm",
+        "1x 8m56s 165bpm",
+        "1x 5m14s 156bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "644s@138bpm91rpm",
+          "duration_secs": 652,
+          "avg_hr": 126,
+          "max_hr": 137,
+          "avg_cadence": 93.91871,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "644s@138bpm91rpm",
+          "duration_secs": 634,
+          "avg_hr": 138,
+          "max_hr": 144,
+          "avg_cadence": 92.75835,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "462s@160bpm95rpm",
+          "duration_secs": 462,
+          "avg_hr": 160,
+          "max_hr": 167,
+          "avg_cadence": 94.671,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "536s@165bpm96rpm",
+          "duration_secs": 536,
+          "avg_hr": 165,
+          "max_hr": 171,
+          "avg_cadence": 96.01075,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 151,
+          "avg_hr": 150,
+          "max_hr": 172,
+          "avg_cadence": 8.503311,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "644s@138bpm91rpm",
+          "duration_secs": 645,
+          "avg_hr": 151,
+          "max_hr": 158,
+          "avg_cadence": 86.83728,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "314s@156bpm87rpm",
+          "duration_secs": 314,
+          "avg_hr": 156,
+          "max_hr": 158,
+          "avg_cadence": 87.21683,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 156,
+          "max_hr": 156,
+          "avg_cadence": 87.0,
+          "zone": 3
         }
       ]
     }
