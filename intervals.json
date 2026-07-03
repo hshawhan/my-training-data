@@ -1,80 +1,10 @@
 {
-  "generated_at": "2026-07-02T22:46:44.216679",
+  "generated_at": "2026-07-03T00:04:55.982890",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i158491128",
-      "date": "2026-06-18",
-      "type": "Run",
-      "name": "New Orleans - W6 Thu Easy Run - 5.5mi Easy Run",
-      "interval_summary": [
-        "1x 11m4s 129bpm",
-        "1x 34m36s 124bpm",
-        "1x 17m47s 119bpm",
-        "1x 19m57s 124bpm",
-        "1x 13m34s 133bpm",
-        "1x 5m18s 141bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "664s@129bpm92rpm",
-          "duration_secs": 664,
-          "avg_hr": 129,
-          "max_hr": 141,
-          "avg_cadence": 91.97741,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "2076s@124bpm88rpm",
-          "duration_secs": 2076,
-          "avg_hr": 124,
-          "max_hr": 141,
-          "avg_cadence": 88.35328,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1067s@119bpm84rpm",
-          "duration_secs": 1067,
-          "avg_hr": 119,
-          "max_hr": 133,
-          "avg_cadence": 84.360634,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1197s@124bpm89rpm",
-          "duration_secs": 1197,
-          "avg_hr": 124,
-          "max_hr": 134,
-          "avg_cadence": 88.71121,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "814s@133bpm90rpm",
-          "duration_secs": 814,
-          "avg_hr": 133,
-          "max_hr": 141,
-          "avg_cadence": 89.53035,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "318s@141bpm92rpm",
-          "duration_secs": 318,
-          "avg_hr": 141,
-          "max_hr": 143,
-          "avg_cadence": 91.95283,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i158748240",
       "date": "2026-06-19",
@@ -1013,6 +943,127 @@
           "max_hr": 152,
           "avg_cadence": 96.80566,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i162231757",
+      "date": "2026-07-02",
+      "type": "Run",
+      "name": "New Orleans - W8 Thu Tempo - Rolling 400s (3.8",
+      "interval_summary": [
+        "1x 9m42s 131bpm",
+        "8x 2m 160bpm",
+        "1x 7m8s 150bpm",
+        "1x 2m39s 153bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "582s@131bpm91rpm",
+          "duration_secs": 582,
+          "avg_hr": 131,
+          "max_hr": 143,
+          "avg_cadence": 91.41237,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "120s@160bpm96rpm",
+          "duration_secs": 113,
+          "avg_hr": 153,
+          "max_hr": 157,
+          "avg_cadence": 94.06195,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "120s@160bpm96rpm",
+          "duration_secs": 127,
+          "avg_hr": 155,
+          "max_hr": 158,
+          "avg_cadence": 93.732285,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "120s@160bpm96rpm",
+          "duration_secs": 113,
+          "avg_hr": 158,
+          "max_hr": 163,
+          "avg_cadence": 95.25664,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "120s@160bpm96rpm",
+          "duration_secs": 128,
+          "avg_hr": 159,
+          "max_hr": 163,
+          "avg_cadence": 94.14844,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "120s@160bpm96rpm",
+          "duration_secs": 113,
+          "avg_hr": 161,
+          "max_hr": 167,
+          "avg_cadence": 97.530975,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "120s@160bpm96rpm",
+          "duration_secs": 127,
+          "avg_hr": 162,
+          "max_hr": 167,
+          "avg_cadence": 96.91338,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "120s@160bpm96rpm",
+          "duration_secs": 113,
+          "avg_hr": 164,
+          "max_hr": 167,
+          "avg_cadence": 99.80531,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "120s@160bpm96rpm",
+          "duration_secs": 124,
+          "avg_hr": 164,
+          "max_hr": 168,
+          "avg_cadence": 98.15323,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 90,
+          "avg_hr": 147,
+          "max_hr": 164,
+          "avg_cadence": 32.444443,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "428s@150bpm91rpm",
+          "duration_secs": 428,
+          "avg_hr": 150,
+          "max_hr": 156,
+          "avg_cadence": 90.88551,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "159s@153bpm91rpm",
+          "duration_secs": 159,
+          "avg_hr": 153,
+          "max_hr": 155,
+          "avg_cadence": 90.666664,
+          "zone": 3
         }
       ]
     }
