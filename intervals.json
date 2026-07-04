@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T11:10:54.808635",
+  "generated_at": "2026-07-04T12:18:02.364879",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -997,6 +997,25 @@
           "max_hr": 155,
           "avg_cadence": 90.666664,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i162611400",
+      "date": "2026-07-04",
+      "type": "Ride",
+      "name": "New Orleans Cycling",
+      "interval_summary": [
+        "1x 6m22s 105bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "382s@105bpm",
+          "duration_secs": 382,
+          "avg_hr": 105,
+          "max_hr": 115,
+          "zone": 1
         }
       ]
     }
