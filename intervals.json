@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T01:03:40.727662",
+  "generated_at": "2026-07-08T04:32:05.098668",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -901,6 +901,75 @@
           "max_hr": 156,
           "avg_cadence": 93.0,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i163716550",
+      "date": "2026-07-07",
+      "type": "Run",
+      "name": "New Orleans - W1 Tue Easy Run #3 - 5.5mi Easy",
+      "interval_summary": [
+        "2x 9m39s 136bpm",
+        "1x 24m38s 130bpm",
+        "1x 17m34s 136bpm",
+        "1x 21m1s 136bpm",
+        "1x 4m36s 140bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "579s@136bpm91rpm",
+          "duration_secs": 586,
+          "avg_hr": 132,
+          "max_hr": 148,
+          "avg_cadence": 92.00171,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "579s@136bpm91rpm",
+          "duration_secs": 572,
+          "avg_hr": 140,
+          "max_hr": 147,
+          "avg_cadence": 90.78322,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1478s@130bpm89rpm",
+          "duration_secs": 1478,
+          "avg_hr": 130,
+          "max_hr": 146,
+          "avg_cadence": 88.54592,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1054s@136bpm91rpm",
+          "duration_secs": 1054,
+          "avg_hr": 136,
+          "max_hr": 144,
+          "avg_cadence": 91.06969,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1261s@136bpm88rpm",
+          "duration_secs": 1261,
+          "avg_hr": 136,
+          "max_hr": 149,
+          "avg_cadence": 87.76417,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "276s@140bpm89rpm",
+          "duration_secs": 276,
+          "avg_hr": 140,
+          "max_hr": 147,
+          "avg_cadence": 89.35145,
+          "zone": 1
         }
       ]
     }
