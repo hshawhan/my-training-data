@@ -1,80 +1,10 @@
 {
-  "generated_at": "2026-07-07T23:29:33.806524",
+  "generated_at": "2026-07-08T01:03:40.727662",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i159841150",
-      "date": "2026-06-23",
-      "type": "Run",
-      "name": "New Orleans - W7 Tue Easy Run - 5.5mi Easy Run",
-      "interval_summary": [
-        "1x 11m 122bpm",
-        "1x 30m44s 130bpm",
-        "1x 15m24s 135bpm",
-        "1x 20m49s 149bpm",
-        "1x 37m58s 130bpm",
-        "1x 5m12s 134bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "660s@122bpm92rpm",
-          "duration_secs": 660,
-          "avg_hr": 122,
-          "max_hr": 140,
-          "avg_cadence": 91.83544,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1844s@130bpm91rpm",
-          "duration_secs": 1844,
-          "avg_hr": 130,
-          "max_hr": 140,
-          "avg_cadence": 91.24561,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "924s@135bpm93rpm",
-          "duration_secs": 924,
-          "avg_hr": 135,
-          "max_hr": 163,
-          "avg_cadence": 92.80139,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1249s@149bpm95rpm",
-          "duration_secs": 1249,
-          "avg_hr": 149,
-          "max_hr": 175,
-          "avg_cadence": 94.9358,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "2278s@130bpm91rpm",
-          "duration_secs": 2278,
-          "avg_hr": 130,
-          "max_hr": 152,
-          "avg_cadence": 90.55935,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "312s@134bpm93rpm",
-          "duration_secs": 312,
-          "avg_hr": 134,
-          "max_hr": 140,
-          "avg_cadence": 92.944626,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i160382952",
       "date": "2026-06-25",
