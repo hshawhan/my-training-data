@@ -1,94 +1,10 @@
 {
-  "generated_at": "2026-07-18T23:25:58.661904",
+  "generated_at": "2026-07-19T01:01:36.651965",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i162611400",
-      "date": "2026-07-04",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 6m22s 105bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "382s@105bpm",
-          "duration_secs": 382,
-          "avg_hr": 105,
-          "max_hr": 115,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i162625493",
-      "date": "2026-07-04",
-      "type": "Run",
-      "name": "New Orleans - W8 Sat Long Run - 6mi Long Run (",
-      "interval_summary": [
-        "6x 9m27s 158bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "567s@158bpm93rpm",
-          "duration_secs": 575,
-          "avg_hr": 140,
-          "max_hr": 152,
-          "avg_cadence": 91.926956,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "567s@158bpm93rpm",
-          "duration_secs": 558,
-          "avg_hr": 155,
-          "max_hr": 160,
-          "avg_cadence": 93.22939,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "567s@158bpm93rpm",
-          "duration_secs": 560,
-          "avg_hr": 159,
-          "max_hr": 163,
-          "avg_cadence": 92.98929,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "567s@158bpm93rpm",
-          "duration_secs": 565,
-          "avg_hr": 161,
-          "max_hr": 167,
-          "avg_cadence": 92.9062,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "567s@158bpm93rpm",
-          "duration_secs": 560,
-          "avg_hr": 165,
-          "max_hr": 168,
-          "avg_cadence": 93.11072,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "567s@158bpm93rpm",
-          "duration_secs": 584,
-          "avg_hr": 165,
-          "max_hr": 167,
-          "avg_cadence": 92.6661,
-          "zone": 4
-        }
-      ]
-    },
     {
       "activity_id": "i162931445",
       "date": "2026-07-05",
