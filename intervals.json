@@ -1,92 +1,10 @@
 {
-  "generated_at": "2026-07-22T23:41:09.514512",
+  "generated_at": "2026-07-23T01:13:13.244567",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i164014068",
-      "date": "2026-07-08",
-      "type": "Run",
-      "name": "New Orleans - W1 Wed Easy Run - 7mi Easy Run (",
-      "interval_summary": [
-        "7x 10m6s 139bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "606s@139bpm94rpm",
-          "duration_secs": 635,
-          "avg_hr": 128,
-          "max_hr": 139,
-          "avg_cadence": 91.80095,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "606s@139bpm94rpm",
-          "duration_secs": 599,
-          "avg_hr": 139,
-          "max_hr": 152,
-          "avg_cadence": 94.136894,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "606s@139bpm94rpm",
-          "duration_secs": 584,
-          "avg_hr": 143,
-          "max_hr": 152,
-          "avg_cadence": 94.66781,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "606s@139bpm94rpm",
-          "duration_secs": 599,
-          "avg_hr": 142,
-          "max_hr": 147,
-          "avg_cadence": 94.44908,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "606s@139bpm94rpm",
-          "duration_secs": 604,
-          "avg_hr": 141,
-          "max_hr": 144,
-          "avg_cadence": 93.85596,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "606s@139bpm94rpm",
-          "duration_secs": 615,
-          "avg_hr": 141,
-          "max_hr": 145,
-          "avg_cadence": 92.192955,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "606s@139bpm94rpm",
-          "duration_secs": 604,
-          "avg_hr": 141,
-          "max_hr": 146,
-          "avg_cadence": 93.471855,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 142,
-          "max_hr": 142,
-          "avg_cadence": 91.0,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i164330009",
       "date": "2026-07-09",
