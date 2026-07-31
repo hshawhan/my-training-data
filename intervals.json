@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T11:48:17.403307",
+  "generated_at": "2026-07-31T14:05:40.279929",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -507,6 +507,82 @@
           "max_hr": 162,
           "avg_cadence": 96.0,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i171079578",
+      "date": "2026-07-31",
+      "type": "Run",
+      "name": "New Orleans - W4 Fri Easy Run - 5.5mi Easy Run",
+      "interval_summary": [
+        "1x 10m40s 131bpm",
+        "1x 12m43s 139bpm",
+        "3x 9m59s 150bpm",
+        "1x 6m8s 153bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "640s@131bpm95rpm",
+          "duration_secs": 640,
+          "avg_hr": 131,
+          "max_hr": 143,
+          "avg_cadence": 95.473434,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "763s@139bpm95rpm",
+          "duration_secs": 763,
+          "avg_hr": 139,
+          "max_hr": 146,
+          "avg_cadence": 94.88725,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "599s@150bpm94rpm",
+          "duration_secs": 584,
+          "avg_hr": 148,
+          "max_hr": 152,
+          "avg_cadence": 94.9161,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "599s@150bpm94rpm",
+          "duration_secs": 613,
+          "avg_hr": 151,
+          "max_hr": 154,
+          "avg_cadence": 92.935,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "599s@150bpm94rpm",
+          "duration_secs": 599,
+          "avg_hr": 152,
+          "max_hr": 156,
+          "avg_cadence": 95.387314,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "368s@153bpm94rpm",
+          "duration_secs": 368,
+          "avg_hr": 153,
+          "max_hr": 155,
+          "avg_cadence": 94.33112,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 144,
+          "max_hr": 144,
+          "avg_cadence": 95.0,
+          "zone": 2
         }
       ]
     }
