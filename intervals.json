@@ -1,83 +1,10 @@
 {
-  "generated_at": "2026-08-16T23:58:46.382023",
+  "generated_at": "2026-08-17T01:48:45.530783",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i171786564",
-      "date": "2026-08-02",
-      "type": "Run",
-      "name": "New Orleans - W4 Sun Easy Run #2 - 6mi Easy Ru",
-      "interval_summary": [
-        "6x 10m2s 136bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "602s@136bpm92rpm",
-          "duration_secs": 624,
-          "avg_hr": 125,
-          "max_hr": 135,
-          "avg_cadence": 90.914925,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "602s@136bpm92rpm",
-          "duration_secs": 602,
-          "avg_hr": 136,
-          "max_hr": 141,
-          "avg_cadence": 92.53833,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "602s@136bpm92rpm",
-          "duration_secs": 580,
-          "avg_hr": 139,
-          "max_hr": 143,
-          "avg_cadence": 93.191376,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "602s@136bpm92rpm",
-          "duration_secs": 596,
-          "avg_hr": 140,
-          "max_hr": 144,
-          "avg_cadence": 93.07215,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "602s@136bpm92rpm",
-          "duration_secs": 599,
-          "avg_hr": 140,
-          "max_hr": 143,
-          "avg_cadence": 92.1734,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "602s@136bpm92rpm",
-          "duration_secs": 608,
-          "avg_hr": 138,
-          "max_hr": 141,
-          "avg_cadence": 91.36288,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 139,
-          "max_hr": 139,
-          "avg_cadence": 93.0,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i172217858",
       "date": "2026-08-03",
