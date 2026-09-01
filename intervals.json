@@ -1,93 +1,10 @@
 {
-  "generated_at": "2026-08-31T23:59:29.280829",
+  "generated_at": "2026-09-01T04:54:25.378734",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i176956479",
-      "date": "2026-08-17",
-      "type": "VirtualRun",
-      "name": "W7 Mon Tempo - Tempo 3 Miles (5.",
-      "interval_summary": [
-        "2x 9m3s 138bpm",
-        "1x 6m15s 138bpm",
-        "3x 7m40s 163bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "543s@138bpm90rpm",
-          "duration_secs": 529,
-          "avg_hr": 134,
-          "max_hr": 149,
-          "avg_cadence": 91.42722,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "375s@138bpm92rpm",
-          "duration_secs": 375,
-          "avg_hr": 138,
-          "max_hr": 143,
-          "avg_cadence": 91.96282,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "460s@163bpm95rpm",
-          "duration_secs": 462,
-          "avg_hr": 158,
-          "max_hr": 165,
-          "avg_cadence": 94.28788,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "460s@163bpm95rpm",
-          "duration_secs": 460,
-          "avg_hr": 164,
-          "max_hr": 169,
-          "avg_cadence": 95.73913,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "460s@163bpm95rpm",
-          "duration_secs": 459,
-          "avg_hr": 167,
-          "max_hr": 173,
-          "avg_cadence": 96.052284,
-          "zone": 4
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 261,
-          "avg_hr": 131,
-          "max_hr": 168,
-          "avg_cadence": 8.921162,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "543s@138bpm90rpm",
-          "duration_secs": 556,
-          "avg_hr": 141,
-          "max_hr": 146,
-          "avg_cadence": 89.50359,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2,
-          "avg_hr": 144,
-          "max_hr": 144,
-          "avg_cadence": 90.0,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i177380257",
       "date": "2026-08-18",
@@ -980,6 +897,124 @@
           "max_hr": 156,
           "avg_cadence": 92.0,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i181899889",
+      "date": "2026-08-31",
+      "type": "VirtualRun",
+      "name": "W9 Mon Intervals - 1km Repeats (",
+      "interval_summary": [
+        "1x 8m56s 137bpm",
+        "1x 5m11s 142bpm",
+        "3x 4m20s 159bpm",
+        "1x 7m16s 142bpm",
+        "1x 3s 146bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "536s@137bpm91rpm",
+          "duration_secs": 536,
+          "avg_hr": 137,
+          "max_hr": 144,
+          "avg_cadence": 91.27052,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 143,
+          "max_hr": 143,
+          "avg_cadence": 91.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "311s@142bpm92rpm",
+          "duration_secs": 311,
+          "avg_hr": 142,
+          "max_hr": 144,
+          "avg_cadence": 92.4875,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 90,
+          "avg_hr": 101,
+          "max_hr": 114,
+          "avg_cadence": 13.944445,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "260s@159bpm94rpm",
+          "duration_secs": 253,
+          "avg_hr": 156,
+          "max_hr": 174,
+          "avg_cadence": 94.61265,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 96,
+          "avg_hr": 144,
+          "max_hr": 166,
+          "avg_cadence": 26.695652,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "260s@159bpm94rpm",
+          "duration_secs": 268,
+          "avg_hr": 158,
+          "max_hr": 171,
+          "avg_cadence": 92.314606,
+          "zone": 3
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 89,
+          "avg_hr": 150,
+          "max_hr": 169,
+          "avg_cadence": 12.067416,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "260s@159bpm94rpm",
+          "duration_secs": 260,
+          "avg_hr": 162,
+          "max_hr": 171,
+          "avg_cadence": 94.34615,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 91,
+          "avg_hr": 153,
+          "max_hr": 171,
+          "avg_cadence": 14.307693,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "436s@142bpm90rpm",
+          "duration_secs": 436,
+          "avg_hr": 142,
+          "max_hr": 146,
+          "avg_cadence": 90.00688,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "3s@146bpm92rpm",
+          "duration_secs": 3,
+          "avg_hr": 146,
+          "max_hr": 146,
+          "avg_cadence": 91.666664,
+          "zone": 2
         }
       ]
     }
