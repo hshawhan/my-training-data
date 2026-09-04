@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:49:01.351350",
+  "generated_at": "2026-09-04T20:20:45.655307",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -989,6 +989,61 @@
           "max_hr": 160,
           "avg_cadence": 94.04181,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i183370897",
+      "date": "2026-09-04",
+      "type": "Run",
+      "name": "Kauai County - W9 Fri Easy Run #2 - 4mi Easy Ru",
+      "interval_summary": [
+        "4x 10m11s 136bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "611s@136bpm93rpm",
+          "duration_secs": 635,
+          "avg_hr": 128,
+          "max_hr": 141,
+          "avg_cadence": 91.848816,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "611s@136bpm93rpm",
+          "duration_secs": 639,
+          "avg_hr": 137,
+          "max_hr": 142,
+          "avg_cadence": 92.88052,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "611s@136bpm93rpm",
+          "duration_secs": 594,
+          "avg_hr": 138,
+          "max_hr": 142,
+          "avg_cadence": 93.818184,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "611s@136bpm93rpm",
+          "duration_secs": 576,
+          "avg_hr": 140,
+          "max_hr": 143,
+          "avg_cadence": 95.28819,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 143,
+          "max_hr": 143,
+          "avg_cadence": 96.0,
+          "zone": 1
         }
       ]
     }
