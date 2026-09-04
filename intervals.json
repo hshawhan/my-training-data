@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T01:10:18.825671",
+  "generated_at": "2026-09-04T05:55:00.119202",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -914,6 +914,80 @@
           "avg_hr": 154,
           "max_hr": 157,
           "avg_cadence": 94.71161,
+          "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i183086848",
+      "date": "2026-09-03",
+      "type": "Run",
+      "name": "Kauai County Running",
+      "interval_summary": [
+        "5x 8m54s 152bpm",
+        "1x 4m47s 157bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "534s@152bpm93rpm",
+          "duration_secs": 559,
+          "avg_hr": 139,
+          "max_hr": 150,
+          "avg_cadence": 90.402504,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 151,
+          "max_hr": 151,
+          "avg_cadence": 93.0,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "534s@152bpm93rpm",
+          "duration_secs": 530,
+          "avg_hr": 154,
+          "max_hr": 160,
+          "avg_cadence": 92.492455,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "534s@152bpm93rpm",
+          "duration_secs": 523,
+          "avg_hr": 152,
+          "max_hr": 159,
+          "avg_cadence": 93.3805,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "534s@152bpm93rpm",
+          "duration_secs": 519,
+          "avg_hr": 159,
+          "max_hr": 163,
+          "avg_cadence": 93.41426,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "534s@152bpm93rpm",
+          "duration_secs": 539,
+          "avg_hr": 156,
+          "max_hr": 161,
+          "avg_cadence": 92.953575,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "287s@157bpm94rpm",
+          "duration_secs": 287,
+          "avg_hr": 157,
+          "max_hr": 160,
+          "avg_cadence": 94.04181,
           "zone": 3
         }
       ]
