@@ -1,84 +1,10 @@
 {
-  "generated_at": "2026-09-04T22:27:53.823638",
+  "generated_at": "2026-09-05T00:18:33.777068",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i178427530",
-      "date": "2026-08-21",
-      "type": "Run",
-      "name": "New Orleans - W7 Fri Easy Run #3 - 5.5mi Easy",
-      "interval_summary": [
-        "5x 9m46s 142bpm",
-        "1x 5m48s 145bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "586s@142bpm96rpm",
-          "duration_secs": 636,
-          "avg_hr": 131,
-          "max_hr": 143,
-          "avg_cadence": 92.59061,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 141,
-          "max_hr": 141,
-          "avg_cadence": 96.0,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "586s@142bpm96rpm",
-          "duration_secs": 580,
-          "avg_hr": 141,
-          "max_hr": 144,
-          "avg_cadence": 95.71278,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "586s@142bpm96rpm",
-          "duration_secs": 577,
-          "avg_hr": 143,
-          "max_hr": 146,
-          "avg_cadence": 96.4974,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "586s@142bpm96rpm",
-          "duration_secs": 568,
-          "avg_hr": 146,
-          "max_hr": 150,
-          "avg_cadence": 97.01761,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "586s@142bpm96rpm",
-          "duration_secs": 571,
-          "avg_hr": 148,
-          "max_hr": 151,
-          "avg_cadence": 96.68476,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "348s@145bpm93rpm",
-          "duration_secs": 348,
-          "avg_hr": 145,
-          "max_hr": 150,
-          "avg_cadence": 93.42857,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i178639793",
       "date": "2026-08-22",
