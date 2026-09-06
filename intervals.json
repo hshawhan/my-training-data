@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:48:15.871633",
+  "generated_at": "2026-09-06T18:52:24.345030",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -821,6 +821,144 @@
           "max_hr": 143,
           "avg_cadence": 96.0,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i184009029",
+      "date": "2026-09-06",
+      "type": "Run",
+      "name": "Kauai County Running",
+      "interval_summary": [
+        "13x 9m12s 151bpm",
+        "1x 52s 170bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 599,
+          "avg_hr": 135,
+          "max_hr": 147,
+          "avg_cadence": 91.23539,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 554,
+          "avg_hr": 146,
+          "max_hr": 152,
+          "avg_cadence": 92.866425,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 552,
+          "avg_hr": 149,
+          "max_hr": 153,
+          "avg_cadence": 93.402176,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 563,
+          "avg_hr": 151,
+          "max_hr": 156,
+          "avg_cadence": 93.67496,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 581,
+          "avg_hr": 150,
+          "max_hr": 153,
+          "avg_cadence": 93.58176,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 589,
+          "avg_hr": 147,
+          "max_hr": 151,
+          "avg_cadence": 93.741936,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 617,
+          "avg_hr": 148,
+          "max_hr": 152,
+          "avg_cadence": 93.50874,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 533,
+          "avg_hr": 149,
+          "max_hr": 153,
+          "avg_cadence": 94.12007,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 537,
+          "avg_hr": 151,
+          "max_hr": 156,
+          "avg_cadence": 93.76909,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 527,
+          "avg_hr": 152,
+          "max_hr": 156,
+          "avg_cadence": 93.402275,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 516,
+          "avg_hr": 157,
+          "max_hr": 161,
+          "avg_cadence": 92.78876,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 522,
+          "avg_hr": 160,
+          "max_hr": 164,
+          "avg_cadence": 91.65251,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "552s@151bpm93rpm",
+          "duration_secs": 485,
+          "avg_hr": 166,
+          "max_hr": 172,
+          "avg_cadence": 97.37938,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "52s@170bpm106rpm",
+          "duration_secs": 52,
+          "avg_hr": 170,
+          "max_hr": 173,
+          "avg_cadence": 106.23077,
+          "zone": 5
         }
       ]
     }
