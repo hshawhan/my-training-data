@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:22:33.756794",
+  "generated_at": "2026-09-09T06:24:47.753703",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -827,6 +827,36 @@
           "max_hr": 173,
           "avg_cadence": 106.23077,
           "zone": 5
+        }
+      ]
+    },
+    {
+      "activity_id": "i184782732",
+      "date": "2026-09-08",
+      "type": "Run",
+      "name": "Kauai County - W6 Fri Easy Run #3 - 4.5mi Easy",
+      "interval_summary": [
+        "1x 9m43s 134bpm",
+        "1x 4m52s 147bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "583s@134bpm93rpm",
+          "duration_secs": 583,
+          "avg_hr": 134,
+          "max_hr": 147,
+          "avg_cadence": 92.61921,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "292s@147bpm94rpm",
+          "duration_secs": 292,
+          "avg_hr": 147,
+          "max_hr": 150,
+          "avg_cadence": 93.503525,
+          "zone": 2
         }
       ]
     }
