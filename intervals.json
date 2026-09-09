@@ -1,77 +1,10 @@
 {
-  "generated_at": "2026-09-08T23:23:43.104324",
+  "generated_at": "2026-09-09T01:22:33.756794",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i179838069",
-      "date": "2026-08-25",
-      "type": "Run",
-      "name": "New Orleans - W8 Tue Easy Run - 5mi Easy Run (",
-      "interval_summary": [
-        "1x 9m45s 137bpm",
-        "1x 25m29s 143bpm",
-        "2x 17m24s 143bpm",
-        "1x 21m13s 134bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "585s@137bpm95rpm",
-          "duration_secs": 585,
-          "avg_hr": 137,
-          "max_hr": 149,
-          "avg_cadence": 94.77949,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 148,
-          "max_hr": 148,
-          "avg_cadence": 97.0,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "1529s@143bpm95rpm",
-          "duration_secs": 1529,
-          "avg_hr": 143,
-          "max_hr": 153,
-          "avg_cadence": 95.20647,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1044s@143bpm92rpm",
-          "duration_secs": 1017,
-          "avg_hr": 146,
-          "max_hr": 156,
-          "avg_cadence": 92.83721,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "1044s@143bpm92rpm",
-          "duration_secs": 1070,
-          "avg_hr": 139,
-          "max_hr": 154,
-          "avg_cadence": 91.5596,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1273s@134bpm92rpm",
-          "duration_secs": 1273,
-          "avg_hr": 134,
-          "max_hr": 146,
-          "avg_cadence": 92.26087,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i180526173",
       "date": "2026-08-27",
