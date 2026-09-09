@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:46:44.700882",
+  "generated_at": "2026-09-09T21:30:32.466900",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -856,6 +856,90 @@
           "avg_hr": 147,
           "max_hr": 150,
           "avg_cadence": 93.503525,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i185026023",
+      "date": "2026-09-09",
+      "type": "Run",
+      "name": "Kauai County - W10 Wed Easy Run - 7mi Easy Run",
+      "interval_summary": [
+        "7x 10m2s 139bpm",
+        "1x 1s 147bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "602s@139bpm93rpm",
+          "duration_secs": 610,
+          "avg_hr": 128,
+          "max_hr": 138,
+          "avg_cadence": 92.73279,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "602s@139bpm93rpm",
+          "duration_secs": 590,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 92.8,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "602s@139bpm93rpm",
+          "duration_secs": 603,
+          "avg_hr": 140,
+          "max_hr": 144,
+          "avg_cadence": 92.220566,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "602s@139bpm93rpm",
+          "duration_secs": 601,
+          "avg_hr": 142,
+          "max_hr": 147,
+          "avg_cadence": 92.36273,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "602s@139bpm93rpm",
+          "duration_secs": 646,
+          "avg_hr": 139,
+          "max_hr": 144,
+          "avg_cadence": 91.9214,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "602s@139bpm93rpm",
+          "duration_secs": 593,
+          "avg_hr": 143,
+          "max_hr": 147,
+          "avg_cadence": 92.60877,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "602s@139bpm93rpm",
+          "duration_secs": 573,
+          "avg_hr": 145,
+          "max_hr": 148,
+          "avg_cadence": 92.93717,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1s@147bpm93rpm",
+          "duration_secs": 1,
+          "avg_hr": 147,
+          "max_hr": 147,
+          "avg_cadence": 93.0,
           "zone": 2
         }
       ]
