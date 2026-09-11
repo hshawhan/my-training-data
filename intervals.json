@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:41:09.004439",
+  "generated_at": "2026-09-11T15:13:07.786882",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -933,6 +933,63 @@
           "max_hr": 143,
           "avg_cadence": 93.0,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i185594573",
+      "date": "2026-09-11",
+      "type": "Run",
+      "name": "New Orleans - W10 Fri Easy Run #4 - 4.5mi Easy",
+      "interval_summary": [
+        "4x 9m30s 140bpm",
+        "1x 4m32s 152bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "570s@140bpm99rpm",
+          "duration_secs": 603,
+          "avg_hr": 127,
+          "max_hr": 138,
+          "avg_cadence": 96.81261,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "570s@140bpm99rpm",
+          "duration_secs": 553,
+          "avg_hr": 140,
+          "max_hr": 144,
+          "avg_cadence": 99.56058,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "570s@140bpm99rpm",
+          "duration_secs": 548,
+          "avg_hr": 146,
+          "max_hr": 149,
+          "avg_cadence": 99.459854,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "570s@140bpm99rpm",
+          "duration_secs": 575,
+          "avg_hr": 148,
+          "max_hr": 153,
+          "avg_cadence": 99.09472,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "272s@152bpm100rpm",
+          "duration_secs": 272,
+          "avg_hr": 152,
+          "max_hr": 154,
+          "avg_cadence": 99.84191,
+          "zone": 3
         }
       ]
     }
