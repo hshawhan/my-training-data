@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T18:35:18.763724",
+  "generated_at": "2026-09-17T21:46:21.183976",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -1174,6 +1174,71 @@
           "avg_hr": 133,
           "max_hr": 133,
           "avg_cadence": 89.0,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i187780103",
+      "date": "2026-09-17",
+      "type": "Run",
+      "name": "Fairfax County - W11 Thu Easy Run #2 - 6mi Easy R",
+      "interval_summary": [
+        "6x 10m29s 136bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "629s@136bpm92rpm",
+          "duration_secs": 649,
+          "avg_hr": 138,
+          "max_hr": 162,
+          "avg_cadence": 92.45719,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "629s@136bpm92rpm",
+          "duration_secs": 632,
+          "avg_hr": 134,
+          "max_hr": 144,
+          "avg_cadence": 92.66612,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "629s@136bpm92rpm",
+          "duration_secs": 606,
+          "avg_hr": 136,
+          "max_hr": 145,
+          "avg_cadence": 93.34323,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "629s@136bpm92rpm",
+          "duration_secs": 602,
+          "avg_hr": 136,
+          "max_hr": 143,
+          "avg_cadence": 93.355484,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "629s@136bpm92rpm",
+          "duration_secs": 621,
+          "avg_hr": 136,
+          "max_hr": 144,
+          "avg_cadence": 92.289856,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "629s@136bpm92rpm",
+          "duration_secs": 663,
+          "avg_hr": 133,
+          "max_hr": 144,
+          "avg_cadence": 90.414635,
           "zone": 1
         }
       ]
