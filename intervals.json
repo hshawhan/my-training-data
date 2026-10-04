@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:48:40.755438",
+  "generated_at": "2026-10-04T14:38:29.736862",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -1205,6 +1205,78 @@
           "max_hr": 156,
           "avg_cadence": 90.0,
           "zone": 3
+        }
+      ]
+    },
+    {
+      "activity_id": "i193432042",
+      "date": "2026-10-04",
+      "type": "Run",
+      "name": "New Orleans - W13 Sun Easy Run #2 - 5mi Easy R",
+      "interval_summary": [
+        "5x 10m21s 139bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "621s@139bpm93rpm",
+          "duration_secs": 661,
+          "avg_hr": 137,
+          "max_hr": 157,
+          "avg_cadence": 92.568596,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 138,
+          "max_hr": 138,
+          "avg_cadence": 96.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "621s@139bpm93rpm",
+          "duration_secs": 622,
+          "avg_hr": 137,
+          "max_hr": 143,
+          "avg_cadence": 94.43247,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "621s@139bpm93rpm",
+          "duration_secs": 592,
+          "avg_hr": 138,
+          "max_hr": 144,
+          "avg_cadence": 94.130066,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "621s@139bpm93rpm",
+          "duration_secs": 622,
+          "avg_hr": 143,
+          "max_hr": 152,
+          "avg_cadence": 92.480064,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "621s@139bpm93rpm",
+          "duration_secs": 607,
+          "avg_hr": 142,
+          "max_hr": 147,
+          "avg_cadence": 92.1318,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 141,
+          "max_hr": 141,
+          "avg_cadence": 92.0,
+          "zone": 1
         }
       ]
     }
