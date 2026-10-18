@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T17:51:21.282089",
+  "generated_at": "2026-10-18T20:09:53.399262",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -951,6 +951,82 @@
           "max_hr": 150,
           "avg_cadence": 96.0,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i198770029",
+      "date": "2026-10-18",
+      "type": "Run",
+      "name": "Bay Lake - W15 Sun Tempo - Tempo 2.5mi (4.5",
+      "interval_summary": [
+        "1x 10m20s 129bpm",
+        "1x 7m14s 161bpm",
+        "1x 8m27s 164bpm",
+        "1x 5m34s 161bpm",
+        "1x 9m38s 150bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "620s@129bpm94rpm",
+          "duration_secs": 620,
+          "avg_hr": 129,
+          "max_hr": 145,
+          "avg_cadence": 93.901215,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "434s@161bpm97rpm",
+          "duration_secs": 434,
+          "avg_hr": 161,
+          "max_hr": 169,
+          "avg_cadence": 96.68894,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "507s@164bpm97rpm",
+          "duration_secs": 507,
+          "avg_hr": 164,
+          "max_hr": 173,
+          "avg_cadence": 97.269844,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "334s@161bpm96rpm",
+          "duration_secs": 334,
+          "avg_hr": 161,
+          "max_hr": 173,
+          "avg_cadence": 95.90909,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 150,
+          "avg_hr": 146,
+          "max_hr": 170,
+          "avg_cadence": 47.873333,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "578s@150bpm93rpm",
+          "duration_secs": 578,
+          "avg_hr": 150,
+          "max_hr": 155,
+          "avg_cadence": 93.432526,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2,
+          "avg_hr": 153,
+          "max_hr": 153,
+          "avg_cadence": 94.5,
+          "zone": 3
         }
       ]
     }
