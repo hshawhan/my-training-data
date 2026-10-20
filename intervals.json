@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:17:23.618094",
+  "generated_at": "2026-10-20T15:16:24.760530",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -853,6 +853,73 @@
           "max_hr": 151,
           "avg_cadence": 95.75368,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i199444844",
+      "date": "2026-10-20",
+      "type": "Run",
+      "name": "Bay Lake - W16 Tue Taper Intervals - Taper",
+      "interval_summary": [
+        "1x 14m52s 134bpm",
+        "1x 4m16s 147bpm",
+        "2x 8m23s 150bpm",
+        "1x 9m20s 142bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "892s@134bpm96rpm",
+          "duration_secs": 892,
+          "avg_hr": 134,
+          "max_hr": 149,
+          "avg_cadence": 96.13471,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 125,
+          "max_hr": 125,
+          "avg_cadence": 96.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "256s@147bpm90rpm",
+          "duration_secs": 256,
+          "avg_hr": 147,
+          "max_hr": 159,
+          "avg_cadence": 89.96875,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "503s@150bpm97rpm",
+          "duration_secs": 503,
+          "avg_hr": 150,
+          "max_hr": 155,
+          "avg_cadence": 96.073555,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "503s@150bpm97rpm",
+          "duration_secs": 503,
+          "avg_hr": 150,
+          "max_hr": 154,
+          "avg_cadence": 97.38171,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "560s@142bpm96rpm",
+          "duration_secs": 560,
+          "avg_hr": 142,
+          "max_hr": 151,
+          "avg_cadence": 95.73929,
+          "zone": 1
         }
       ]
     }
