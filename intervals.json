@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:07:59.426639",
+  "generated_at": "2026-10-24T13:19:55.160700",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -740,6 +740,53 @@
           "max_hr": 139,
           "avg_cadence": 87.77233,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i201039171",
+      "date": "2026-10-24",
+      "type": "Run",
+      "name": "New Orleans Running",
+      "interval_summary": [
+        "2x 9m57s 140bpm",
+        "1x 38s 144bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "597s@140bpm95rpm",
+          "duration_secs": 596,
+          "avg_hr": 136,
+          "max_hr": 145,
+          "avg_cadence": 95.87248,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 143,
+          "max_hr": 143,
+          "avg_cadence": 92.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "597s@140bpm95rpm",
+          "duration_secs": 598,
+          "avg_hr": 143,
+          "max_hr": 147,
+          "avg_cadence": 93.84281,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "38s@144bpm91rpm",
+          "duration_secs": 38,
+          "avg_hr": 144,
+          "max_hr": 145,
+          "avg_cadence": 91.47369,
+          "zone": 2
         }
       ]
     }
