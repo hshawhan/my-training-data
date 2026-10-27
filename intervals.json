@@ -1,57 +1,10 @@
 {
-  "generated_at": "2026-10-26T21:45:34.847140",
+  "generated_at": "2026-10-27T01:11:24.046098",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i196646102",
-      "date": "2026-10-12",
-      "type": "Run",
-      "name": "New Orleans - W15 Mon Easy Run - 4mi Easy Run",
-      "interval_summary": [
-        "4x 9m43s 141bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "583s@141bpm94rpm",
-          "duration_secs": 579,
-          "avg_hr": 135,
-          "max_hr": 147,
-          "avg_cadence": 92.96027,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "583s@141bpm94rpm",
-          "duration_secs": 584,
-          "avg_hr": 144,
-          "max_hr": 149,
-          "avg_cadence": 93.71655,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "583s@141bpm94rpm",
-          "duration_secs": 585,
-          "avg_hr": 141,
-          "max_hr": 145,
-          "avg_cadence": 94.41538,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "583s@141bpm94rpm",
-          "duration_secs": 583,
-          "avg_hr": 142,
-          "max_hr": 145,
-          "avg_cadence": 94.823326,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i197030916",
       "date": "2026-10-13",
