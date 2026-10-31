@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T08:53:48.160642",
+  "generated_at": "2026-10-31T15:05:05.299965",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -750,6 +750,62 @@
           "avg_hr": 102,
           "max_hr": 113,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i203931233",
+      "date": "2026-10-31",
+      "type": "Run",
+      "name": "New Orleans - W1 Sat Easy Run - 3.8mi Easy Run",
+      "interval_summary": [
+        "3x 9m53s 145bpm",
+        "1x 7m54s 149bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "593s@145bpm93rpm",
+          "duration_secs": 596,
+          "avg_hr": 137,
+          "max_hr": 152,
+          "avg_cadence": 93.51684,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "593s@145bpm93rpm",
+          "duration_secs": 585,
+          "avg_hr": 150,
+          "max_hr": 155,
+          "avg_cadence": 92.10702,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "593s@145bpm93rpm",
+          "duration_secs": 597,
+          "avg_hr": 149,
+          "max_hr": 154,
+          "avg_cadence": 92.944725,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "474s@149bpm93rpm",
+          "duration_secs": 474,
+          "avg_hr": 149,
+          "max_hr": 154,
+          "avg_cadence": 93.2173,
+          "zone": 2
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 149,
+          "max_hr": 149,
+          "avg_cadence": 92.0,
+          "zone": 2
         }
       ]
     }
