@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T07:19:52.959514",
+  "generated_at": "2026-11-08T14:25:22.632726",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -358,6 +358,54 @@
           "max_hr": 147,
           "avg_cadence": 93.0,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i207410941",
+      "date": "2026-11-08",
+      "type": "Run",
+      "name": "New Orleans - W2 Sun Easy Run #2 - 3.8mi Easy",
+      "interval_summary": [
+        "3x 10m 144bpm",
+        "1x 7m58s 139bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "600s@144bpm94rpm",
+          "duration_secs": 622,
+          "avg_hr": 141,
+          "max_hr": 158,
+          "avg_cadence": 95.07843,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@144bpm94rpm",
+          "duration_secs": 593,
+          "avg_hr": 151,
+          "max_hr": 157,
+          "avg_cadence": 93.768974,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "600s@144bpm94rpm",
+          "duration_secs": 585,
+          "avg_hr": 140,
+          "max_hr": 150,
+          "avg_cadence": 94.471794,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "478s@139bpm94rpm",
+          "duration_secs": 478,
+          "avg_hr": 139,
+          "max_hr": 152,
+          "avg_cadence": 94.283875,
+          "zone": 1
         }
       ]
     }
