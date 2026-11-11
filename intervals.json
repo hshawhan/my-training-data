@@ -1,71 +1,10 @@
 {
-  "generated_at": "2026-11-10T23:39:28.804875",
+  "generated_at": "2026-11-11T03:02:56.168989",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i202560797",
-      "date": "2026-10-27",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 46m38s 93bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 7
-        },
-        {
-          "type": "WORK",
-          "label": "2798s@93bpm",
-          "duration_secs": 2798,
-          "avg_hr": 93,
-          "max_hr": 119,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i202549449",
-      "date": "2026-10-27",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 21m39s 103bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1299s@103bpm",
-          "duration_secs": 1299,
-          "avg_hr": 103,
-          "max_hr": 114,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i202565030",
-      "date": "2026-10-27",
-      "type": "Ride",
-      "name": "New Orleans Cycling",
-      "interval_summary": [
-        "1x 14m48s 102bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "888s@102bpm",
-          "duration_secs": 888,
-          "avg_hr": 102,
-          "max_hr": 113,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i203931233",
       "date": "2026-10-31",
@@ -497,6 +436,74 @@
           "avg_hr": 149,
           "max_hr": 149,
           "avg_cadence": 95.0,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i208519161",
+      "date": "2026-11-10",
+      "type": "Run",
+      "name": "New Orleans - W3 Tue Easy Run #3 - 3.1mi Easy",
+      "interval_summary": [
+        "1x 21m28s 141bpm",
+        "1x 19m8s 134bpm",
+        "1x 24m15s 130bpm",
+        "1x 59s 144bpm",
+        "1x 67s 144bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1288s@141bpm93rpm",
+          "duration_secs": 1288,
+          "avg_hr": 141,
+          "max_hr": 167,
+          "avg_cadence": 92.81864,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 139,
+          "max_hr": 139,
+          "avg_cadence": 95.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1148s@134bpm93rpm",
+          "duration_secs": 1148,
+          "avg_hr": 134,
+          "max_hr": 149,
+          "avg_cadence": 92.62761,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1455s@130bpm90rpm",
+          "duration_secs": 1455,
+          "avg_hr": 130,
+          "max_hr": 145,
+          "avg_cadence": 89.67869,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "59s@144bpm95rpm",
+          "duration_secs": 59,
+          "avg_hr": 144,
+          "max_hr": 148,
+          "avg_cadence": 94.50848,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "67s@144bpm95rpm",
+          "duration_secs": 67,
+          "avg_hr": 144,
+          "max_hr": 146,
+          "avg_cadence": 94.791046,
           "zone": 2
         }
       ]
