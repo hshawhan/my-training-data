@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T22:35:28.610298",
+  "generated_at": "2026-11-13T02:55:18.416907",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -561,6 +561,62 @@
           "avg_hr": 139,
           "max_hr": 143,
           "avg_cadence": 90.6257,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i209362514",
+      "date": "2026-11-12",
+      "type": "VirtualRun",
+      "name": "W3 Thu Easy Run #2 - 3.8mi Easy",
+      "interval_summary": [
+        "3x 8m23s 149bpm",
+        "1x 6m51s 140bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "503s@149bpm93rpm",
+          "duration_secs": 496,
+          "avg_hr": 158,
+          "max_hr": 164,
+          "avg_cadence": 91.879036,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "503s@149bpm93rpm",
+          "duration_secs": 506,
+          "avg_hr": 150,
+          "max_hr": 160,
+          "avg_cadence": 92.87747,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "503s@149bpm93rpm",
+          "duration_secs": 507,
+          "avg_hr": 140,
+          "max_hr": 144,
+          "avg_cadence": 92.83629,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "411s@140bpm91rpm",
+          "duration_secs": 411,
+          "avg_hr": 140,
+          "max_hr": 143,
+          "avg_cadence": 91.07056,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 142,
+          "max_hr": 142,
+          "avg_cadence": 92.0,
           "zone": 1
         }
       ]
