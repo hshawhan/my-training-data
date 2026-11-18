@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T17:27:04.894381",
+  "generated_at": "2026-11-18T23:29:45.064943",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -903,6 +903,53 @@
           "max_hr": 151,
           "avg_cadence": 93.566666,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i211861092",
+      "date": "2026-11-18",
+      "type": "Run",
+      "name": "New Orleans - W1 Wed Easy Run - 4mi Easy Run (",
+      "interval_summary": [
+        "4x 10m29s 138bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "629s@138bpm94rpm",
+          "duration_secs": 614,
+          "avg_hr": 130,
+          "max_hr": 143,
+          "avg_cadence": 94.68885,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "629s@138bpm94rpm",
+          "duration_secs": 672,
+          "avg_hr": 137,
+          "max_hr": 145,
+          "avg_cadence": 90.89212,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "629s@138bpm94rpm",
+          "duration_secs": 580,
+          "avg_hr": 142,
+          "max_hr": 147,
+          "avg_cadence": 95.59655,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "629s@138bpm94rpm",
+          "duration_secs": 648,
+          "avg_hr": 141,
+          "max_hr": 147,
+          "avg_cadence": 93.82003,
+          "zone": 1
         }
       ]
     }
