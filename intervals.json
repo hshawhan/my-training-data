@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:06:25.903489",
+  "generated_at": "2026-11-23T23:53:27.285485",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
@@ -977,6 +977,71 @@
           "max_hr": 145,
           "avg_cadence": 94.0,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i213871019",
+      "date": "2026-11-23",
+      "type": "Run",
+      "name": "New Orleans - W2 Mon Tempo - Over and Unders M",
+      "interval_summary": [
+        "1x 10m4s 128bpm",
+        "2x 7m55s 155bpm",
+        "1x 8m32s 127bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "604s@128bpm98rpm",
+          "duration_secs": 604,
+          "avg_hr": 128,
+          "max_hr": 137,
+          "avg_cadence": 97.67384,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "475s@155bpm101rpm",
+          "duration_secs": 498,
+          "avg_hr": 149,
+          "max_hr": 154,
+          "avg_cadence": 100.700806,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "475s@155bpm101rpm",
+          "duration_secs": 451,
+          "avg_hr": 161,
+          "max_hr": 167,
+          "avg_cadence": 101.117516,
+          "zone": 4
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 90,
+          "avg_hr": 140,
+          "max_hr": 165,
+          "avg_cadence": 35.166668,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "512s@127bpm89rpm",
+          "duration_secs": 512,
+          "avg_hr": 127,
+          "max_hr": 133,
+          "avg_cadence": 88.89258,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2,
+          "avg_hr": 130,
+          "max_hr": 130,
+          "avg_cadence": 88.0,
+          "zone": 1
         }
       ]
     }
