@@ -1,78 +1,10 @@
 {
-  "generated_at": "2026-11-24T19:42:44.326840",
+  "generated_at": "2026-11-25T03:10:25.285498",
   "version": "3.104",
   "script_hash": "74e1c7fc0294",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i208519161",
-      "date": "2026-11-10",
-      "type": "Run",
-      "name": "New Orleans - W3 Tue Easy Run #3 - 3.1mi Easy",
-      "interval_summary": [
-        "1x 21m28s 141bpm",
-        "1x 19m8s 134bpm",
-        "1x 24m15s 130bpm",
-        "1x 59s 144bpm",
-        "1x 67s 144bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1288s@141bpm93rpm",
-          "duration_secs": 1288,
-          "avg_hr": 141,
-          "max_hr": 167,
-          "avg_cadence": 92.81864,
-          "zone": 1
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1,
-          "avg_hr": 139,
-          "max_hr": 139,
-          "avg_cadence": 95.0,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1148s@134bpm93rpm",
-          "duration_secs": 1148,
-          "avg_hr": 134,
-          "max_hr": 149,
-          "avg_cadence": 92.62761,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1455s@130bpm90rpm",
-          "duration_secs": 1455,
-          "avg_hr": 130,
-          "max_hr": 145,
-          "avg_cadence": 89.67869,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "59s@144bpm95rpm",
-          "duration_secs": 59,
-          "avg_hr": 144,
-          "max_hr": 148,
-          "avg_cadence": 94.50848,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "67s@144bpm95rpm",
-          "duration_secs": 67,
-          "avg_hr": 144,
-          "max_hr": 146,
-          "avg_cadence": 94.791046,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i208949048",
       "date": "2026-11-11",
@@ -949,6 +881,85 @@
           "avg_hr": 130,
           "max_hr": 130,
           "avg_cadence": 88.0,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i214342981",
+      "date": "2026-11-24",
+      "type": "Run",
+      "name": "New Orleans - W2 Tue Easy Run - 5.5mi Easy Run",
+      "interval_summary": [
+        "2x 10m34s 128bpm",
+        "1x 26m11s 128bpm",
+        "1x 17m57s 126bpm",
+        "1x 20m26s 126bpm",
+        "1x 7m24s 127bpm",
+        "1x 6m8s 122bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "634s@128bpm90rpm",
+          "duration_secs": 654,
+          "avg_hr": 122,
+          "max_hr": 133,
+          "avg_cadence": 89.87208,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "634s@128bpm90rpm",
+          "duration_secs": 614,
+          "avg_hr": 133,
+          "max_hr": 144,
+          "avg_cadence": 90.93974,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1571s@128bpm90rpm",
+          "duration_secs": 1571,
+          "avg_hr": 128,
+          "max_hr": 136,
+          "avg_cadence": 89.99678,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1077s@126bpm89rpm",
+          "duration_secs": 1077,
+          "avg_hr": 126,
+          "max_hr": 137,
+          "avg_cadence": 88.72667,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1226s@126bpm89rpm",
+          "duration_secs": 1226,
+          "avg_hr": 126,
+          "max_hr": 140,
+          "avg_cadence": 88.88614,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "444s@127bpm90rpm",
+          "duration_secs": 444,
+          "avg_hr": 127,
+          "max_hr": 135,
+          "avg_cadence": 90.37288,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "368s@122bpm87rpm",
+          "duration_secs": 368,
+          "avg_hr": 122,
+          "max_hr": 135,
+          "avg_cadence": 86.72789,
           "zone": 1
         }
       ]
